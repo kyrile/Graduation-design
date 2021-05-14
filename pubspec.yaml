@@ -1,0 +1,43 @@
+name: cxz
+
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  # 发送http请求库
+  dio:
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #实现【页面-数据】抽离
+  scoped_model: ^1.1.0
+ 
+  flutter_easyloading:
+
+  logger:
+
+flutter:
+  uses-material-design: true
+  assets:
+  - images/ 
+  fonts:
+    - family: SansSerif
+      fonts:
+        - asset: fonts/Microsoft-Sans-Serif.ttf
+    - family: ShangShouYuSongTi
+      fonts:
+        - asset: fonts/ShangShouYuSongTi-2.ttf
+    - family: FriscoSansSerif
+      fonts:
+        - asset: fonts/FriscoSansSerif.ttf
