@@ -12,11 +12,11 @@
 
 (2)lib-->pages-->grow-->topic_folder.dart(一个：请求点击成长/Github某一个主题后的请求)
 
-## APP截图
-![这是图片]()
+## APP部分页面截图
+<img src=https://github.com/kyrile/Graduation-design/blob/main/flutter_01.png width=60% height=60%/>
 
 
-![这是图片](https://github.com/kyrile/Graduation-design/blob/main/flutter_01.png)
+![这是图片](https://github.com/kyrile/Graduation-design/blob/main/flutter_02.png)
 
 
 ![这是图片](/flutter_03.jpg)
