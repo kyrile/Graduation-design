@@ -16,7 +16,7 @@
 ![这是图片]()
 
 
-![这是图片](https://github.com/kyrile/Graduation-design/master/flutter_02.jpg)
+![这是图片](https://github.com/kyrile/Graduation-design/blob/main/flutter_01.png)
 
 
 ![这是图片](/flutter_03.jpg)
