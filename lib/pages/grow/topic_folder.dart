@@ -51,7 +51,7 @@ class _StudyPageState extends State<TopciFloder> {
   void _getHttp() async {
     EasyLoading.show(status: '亲！正在疯狂的请求后台服务器,不要着急');
     try {
-      var response = await Dio().get('http://9hcqy7.natappfree.cc/topic_array');
+      var response = await Dio().get('http://wyx2d8.natappfree.cc/topic_array');
       List<dynamic> array = response.data;
 
       dynamic obj = array[arrIndex];

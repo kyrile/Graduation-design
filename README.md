@@ -2,7 +2,7 @@
 
 毕业设计
 
-## Getting Started
+## 注意事项
 
 每次重新启动natapp.exe,需要修改这个毕业项目中的域名:
 
@@ -12,3 +12,14 @@
 
 (2)lib-->pages-->grow-->topic_folder.dart(一个：请求点击成长/Github某一个主题后的请求)
 
+## APP截图
+![这是图片](/flutter_01.jpg)
+
+
+![这是图片](/flutter_02.jpg)
+
+
+![这是图片](/flutter_03.jpg)
+
+
+![这是图片](/flutter_04.jpg)

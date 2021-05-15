@@ -9,7 +9,7 @@ class GraduateModel extends Model {
     logger.i('onItemTapped进来了');
     changeUrl(
         newUrl:
-            "http://9hcqy7.natappfree.cc/${index == 0 ? 'topic' : 'github'}",
+            "http://wyx2d8.natappfree.cc/${index == 0 ? 'topic' : 'github'}",
         url: "${index == 0 ? 'topic' : 'github'}");
     _selectedIndex = index;
     notifyListeners();
@@ -25,7 +25,7 @@ class GraduateModel extends Model {
     notifyListeners();
   }
 
-  String _requestUrl = 'http://9hcqy7.natappfree.cc/topic';
+  String _requestUrl = 'http://wyx2d8.natappfree.cc/topic';
   String get requestUrl => this._requestUrl;
 
   String _url1 = "topic";
